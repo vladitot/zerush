@@ -56,16 +56,7 @@
     "config": {
         "optimize-autoloader": true,
         "preferred-install": "dist",
-        "sort-packages": true,
-        "gitlab-domains": [
-            "gitlab.lenta.tech"
-        ]
-    },
-    "repositories": {
-        "gitlab.lenta.tech/67": {
-            "type": "composer",
-            "url": "https://gitlab.lenta.tech/api/v4/group/67/-/packages/composer/packages.json"
-        }
+        "sort-packages": true
     },
     "minimum-stability": "dev",
     "prefer-stable": true
